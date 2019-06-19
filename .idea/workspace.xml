@@ -18,8 +18,8 @@
       <file leaf-file-name="servmcr-dev.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/servmcr/servmcr-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="154">
+              <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -470,7 +470,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560911518760</updated>
       <workItem from="1560911520975" duration="436000" />
-      <workItem from="1560912403875" duration="2772000" />
+      <workItem from="1560912403875" duration="2927000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560912503974</created>
@@ -514,11 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560927227395</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1560927316011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560927316011</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3208000" />
+    <option name="totallyTimeSpent" value="3363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1884" height="1047" extended-state="0" />
@@ -567,8 +574,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/servmcr/servmcr-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state relative-caret-position="154">
+          <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="41" />
           <folding />
         </state>
       </provider>
